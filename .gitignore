@@ -1,0 +1,20 @@
+# Compilação e Binários
+build/
+cmake-build-debug/
+tester/build/
+bin/
+*.o
+*.obj
+*.exe
+out
+a.out
+
+# Logs e Resultados Temporários
+test_log.txt
+output/*.png
+!output/.gitkeep
+
+# IDEs e Sistema
+.vscode/
+.idea/
+.DS_Store
